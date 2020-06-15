@@ -11,6 +11,8 @@
     "gulp-sass": "^3.1.0"
   },
   "dependencies": {
-    "@capacitor/core": "2.2.0"
+    "@capacitor/android": "^2.2.0",
+    "@capacitor/core": "2.2.0",
+    "cordova-plugin-bluetoothle": "^4.5.11"
   }
 }
