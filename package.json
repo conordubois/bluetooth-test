@@ -13,8 +13,9 @@
   "dependencies": {
     "@capacitor/android": "^2.2.0",
     "@capacitor/core": "2.2.0",
+    "capacitor-keep-screen-on": "^1.0.0-alpha.6",
     "cordova-plugin-bluetoothle": "^4.5.11",
-    "cordova.plugins.diagnostic": "git+https://github.com/conordubois/DryLINKdiagnostic.git",
+    "cordova-plugin-device": "^2.0.3",
     "phonegap-bluetooth-plugin": "git+https://github.com/tanelih/phonegap-bluetooth-plugin.git"
   }
 }

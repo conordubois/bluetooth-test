@@ -9,9 +9,8 @@ android {
 
 apply from: "../capacitor-cordova-android-plugins/cordova.variables.gradle"
 dependencies {
+    implementation project(':capacitor-keep-screen-on')
 
-    implementation "com.android.support:support-v4:23.+"
-    implementation "com.android.support:appcompat-v7:23.+"
 }
 
 
