@@ -16,6 +16,7 @@
     "capacitor-keep-screen-on": "^1.0.0-alpha.6",
     "cordova-plugin-bluetoothle": "^4.5.11",
     "cordova-plugin-device": "^2.0.3",
+    "cordova.plugins.diagnostic": "git+https://github.com/conordubois/DryLINKdiagnostic.git",
     "phonegap-bluetooth-plugin": "git+https://github.com/tanelih/phonegap-bluetooth-plugin.git"
   }
 }

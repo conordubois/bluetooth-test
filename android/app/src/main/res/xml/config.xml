@@ -10,6 +10,11 @@
     <param name="android-package" value="org.apache.cordova.device.Device"/>
   </feature>
 
+  <feature name="Diagnostic">
+    <param name="android-package" value="cordova.plugins.Diagnostic"/>
+    <param name="onload" value="true"/>
+  </feature>
+
   <feature name="Bluetooth">
     <param name="android-package" value="org.apache.cordova.bluetooth.BluetoothPlugin"/>
   </feature>
